@@ -1,5 +1,13 @@
+# MacOS system files
 .DS_Store
-application_train_cleaned.csv
-application_test_cleaned.csv
-dataset/
+
+# Jupyter Notebook checkpoints
 **/.ipynb_checkpoints/
+
+# Raw Kaggle datasets
+Dataset/
+dataset/
+
+# Cleaned / generated data anywhere in repo
+**/application_train_cleaned.csv
+**/application_test_cleaned.csv
