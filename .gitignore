@@ -2,5 +2,4 @@
 application_train_cleaned.csv
 application_test_cleaned.csv
 dataset/
-Dataset/
 **/.ipynb_checkpoints/
